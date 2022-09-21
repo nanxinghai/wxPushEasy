@@ -1,0 +1,13 @@
+wx:
+  appID: 你的appID
+  appsecret: 你的appsecret
+# 和风天气https://dev.qweather.com/
+hefeng:
+  key: 你的key
+  publicID: 你的publicID
+server:
+  port: 80
+logging:
+  level:
+    root: info
+    cn.simon.controller: debug

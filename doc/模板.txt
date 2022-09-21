@@ -1,0 +1,15 @@
+{{today.DATA}}
+当前城市：{{city.DATA}}
+今日天气：{{text.DATA}}
+今日温度：{{temp.DATA}}
+今日风向：{{windDir.DATA}}
+风力等级：{{windScale.DATA}}
+风力速度：{{windSpeed.DATA}}
+相对湿度: {{humidity.DATA}}
+你的星座：{{constell.DATA}}
+
+{{birthday.DATA}}
+
+	{{content.DATA}}
+	
+	{{engContent.DATA}}
